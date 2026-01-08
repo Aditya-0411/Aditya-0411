@@ -33,11 +33,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats (Real-Time)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-0411&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-0411&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-0411&layout=compact&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aditya-0411&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aditya-0411&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-0411&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
