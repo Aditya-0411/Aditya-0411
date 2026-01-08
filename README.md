@@ -50,5 +50,4 @@
 > **“First, solve the problem. Then, write the code.”** — John Johnson
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Aditya-0411&icon=5&color=6)
+[![](https://visitcount.itsvg.in/api?id=Aditya-0411&icon=0&color=0)](https://visitcount.itsvg.in)
